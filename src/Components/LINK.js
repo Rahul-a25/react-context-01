@@ -1,10 +1,10 @@
-import React from 'react'
+import React from 'react';
 
 function LINK() {
   return (
     <>
     <p>Geekster</p>
-    <div>
+    <div style={{display:'flex', flexDirection:"column"}}>
       <a href="#">Home</a>
       <a href="#">Contact</a>
       <a href="#">Service</a>
